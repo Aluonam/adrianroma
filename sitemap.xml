@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://adrianroma.com/</loc>
+    <lastmod>2026-10-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://adrianroma.com/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://adrianroma.com/en/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://adrianroma.com/" />
+    <image:image>
+      <image:loc>https://adrianroma.com/img/torre-4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/torre-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/torre-2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/torre-3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/precipitacion-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/precipitacion-3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/precipitacion-2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/rio-3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/rio-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/rio-2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/arraigo-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/arraigo-3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/arraigo-2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/medrar-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/medrar-2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/medrar-3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/medrar-4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/medrar-5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/negra-4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/negra-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/negra-3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/negra-2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/negra-5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/negra-6.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/rama-2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/rama-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/rama-3.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://adrianroma.com/obra/torre-cristalografica/</loc>
+    <lastmod>2026-10-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://adrianroma.com/obra/torre-cristalografica/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://adrianroma.com/en/work/torre-cristalografica/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://adrianroma.com/obra/torre-cristalografica/" />
+    <image:image>
+      <image:loc>https://adrianroma.com/img/torre-4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/torre-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/torre-2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/torre-3.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://adrianroma.com/obra/precipitacion/</loc>
+    <lastmod>2026-10-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://adrianroma.com/obra/precipitacion/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://adrianroma.com/en/work/precipitacion/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://adrianroma.com/obra/precipitacion/" />
+    <image:image>
+      <image:loc>https://adrianroma.com/img/precipitacion-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/precipitacion-3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/precipitacion-2.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://adrianroma.com/obra/rio-1/</loc>
+    <lastmod>2026-10-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://adrianroma.com/obra/rio-1/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://adrianroma.com/en/work/rio-1/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://adrianroma.com/obra/rio-1/" />
+    <image:image>
+      <image:loc>https://adrianroma.com/img/rio-3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/rio-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/rio-2.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://adrianroma.com/obra/arraigo/</loc>
+    <lastmod>2026-10-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://adrianroma.com/obra/arraigo/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://adrianroma.com/en/work/arraigo/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://adrianroma.com/obra/arraigo/" />
+    <image:image>
+      <image:loc>https://adrianroma.com/img/arraigo-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/arraigo-3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/arraigo-2.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://adrianroma.com/obra/medrar/</loc>
+    <lastmod>2026-10-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://adrianroma.com/obra/medrar/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://adrianroma.com/en/work/medrar/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://adrianroma.com/obra/medrar/" />
+    <image:image>
+      <image:loc>https://adrianroma.com/img/medrar-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/medrar-2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/medrar-3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/medrar-4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/medrar-5.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://adrianroma.com/obra/arquitectura-distopica/</loc>
+    <lastmod>2026-10-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://adrianroma.com/obra/arquitectura-distopica/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://adrianroma.com/en/work/arquitectura-distopica/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://adrianroma.com/obra/arquitectura-distopica/" />
+    <image:image>
+      <image:loc>https://adrianroma.com/img/negra-4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/negra-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/negra-3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/negra-2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/negra-5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/negra-6.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://adrianroma.com/obra/naturaleza-muerta/</loc>
+    <lastmod>2026-10-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://adrianroma.com/obra/naturaleza-muerta/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://adrianroma.com/en/work/naturaleza-muerta/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://adrianroma.com/obra/naturaleza-muerta/" />
+    <image:image>
+      <image:loc>https://adrianroma.com/img/rama-2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/rama-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/rama-3.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://adrianroma.com/en/</loc>
+    <lastmod>2026-10-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://adrianroma.com/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://adrianroma.com/en/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://adrianroma.com/" />
+    <image:image>
+      <image:loc>https://adrianroma.com/img/torre-4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/torre-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/torre-2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/torre-3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/precipitacion-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/precipitacion-3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/precipitacion-2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/rio-3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/rio-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/rio-2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/arraigo-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/arraigo-3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/arraigo-2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/medrar-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/medrar-2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/medrar-3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/medrar-4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/medrar-5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/negra-4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/negra-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/negra-3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/negra-2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/negra-5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/negra-6.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/rama-2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/rama-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/rama-3.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://adrianroma.com/en/work/torre-cristalografica/</loc>
+    <lastmod>2026-10-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://adrianroma.com/obra/torre-cristalografica/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://adrianroma.com/en/work/torre-cristalografica/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://adrianroma.com/obra/torre-cristalografica/" />
+    <image:image>
+      <image:loc>https://adrianroma.com/img/torre-4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/torre-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/torre-2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/torre-3.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://adrianroma.com/en/work/precipitacion/</loc>
+    <lastmod>2026-10-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://adrianroma.com/obra/precipitacion/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://adrianroma.com/en/work/precipitacion/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://adrianroma.com/obra/precipitacion/" />
+    <image:image>
+      <image:loc>https://adrianroma.com/img/precipitacion-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/precipitacion-3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/precipitacion-2.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://adrianroma.com/en/work/rio-1/</loc>
+    <lastmod>2026-10-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://adrianroma.com/obra/rio-1/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://adrianroma.com/en/work/rio-1/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://adrianroma.com/obra/rio-1/" />
+    <image:image>
+      <image:loc>https://adrianroma.com/img/rio-3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/rio-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/rio-2.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://adrianroma.com/en/work/arraigo/</loc>
+    <lastmod>2026-10-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://adrianroma.com/obra/arraigo/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://adrianroma.com/en/work/arraigo/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://adrianroma.com/obra/arraigo/" />
+    <image:image>
+      <image:loc>https://adrianroma.com/img/arraigo-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/arraigo-3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/arraigo-2.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://adrianroma.com/en/work/medrar/</loc>
+    <lastmod>2026-10-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://adrianroma.com/obra/medrar/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://adrianroma.com/en/work/medrar/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://adrianroma.com/obra/medrar/" />
+    <image:image>
+      <image:loc>https://adrianroma.com/img/medrar-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/medrar-2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/medrar-3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/medrar-4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/medrar-5.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://adrianroma.com/en/work/arquitectura-distopica/</loc>
+    <lastmod>2026-10-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://adrianroma.com/obra/arquitectura-distopica/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://adrianroma.com/en/work/arquitectura-distopica/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://adrianroma.com/obra/arquitectura-distopica/" />
+    <image:image>
+      <image:loc>https://adrianroma.com/img/negra-4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/negra-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/negra-3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/negra-2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/negra-5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/negra-6.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://adrianroma.com/en/work/naturaleza-muerta/</loc>
+    <lastmod>2026-10-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://adrianroma.com/obra/naturaleza-muerta/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://adrianroma.com/en/work/naturaleza-muerta/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://adrianroma.com/obra/naturaleza-muerta/" />
+    <image:image>
+      <image:loc>https://adrianroma.com/img/rama-2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/rama-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://adrianroma.com/img/rama-3.jpg</image:loc>
+    </image:image>
+  </url>
+</urlset>
